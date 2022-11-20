@@ -1,4 +1,4 @@
-# LWJGLOpenGLSample
+# cppOpenGLSample
 An incredibly simple C++ sample of openGL designed to help me work with the openXR API.
 Before I could do OpenXR, I first needed a program to convert to openXR to better help me understand the API.
 This program simply has a moveable camera and a simple shader that uses an MVP matrix.
